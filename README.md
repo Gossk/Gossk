@@ -118,15 +118,7 @@
 ## 📊 GitHub Stats
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=Gossk&show_icons=true&theme=github_dark">
-</p>
-
-<p align='center'>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Gossk&theme=black-ice&hide_border=true">
-</p>
-
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gossk&theme=dark&hide_border=true&layout=compact">
 </p>
 
 ---
