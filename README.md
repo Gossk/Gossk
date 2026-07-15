@@ -18,27 +18,27 @@
 
 # 🚀 Connect with me
 
-<p align="center">
-
-<a href="mailto:u202314186@upc.edu.pe">
+<a href="mailto:u202314186@upc.edu.pe" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-&nbsp;
 
 <a href="https://www.linkedin.com/in/miguel-vidal-a1b230306/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-&nbsp;
-
 <a href="https://portfolio-miguel-vidal.web.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
-</p>
+## 🎯 Check out my portfolio
 
----
+<p align="center">
+
+<a href="https://portfolio-miguel-vidal.web.app/">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
 
 # 🛠️ Skills & Technologies
 
@@ -62,8 +62,6 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
----
-
 ## 🌐 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -78,8 +76,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![PrimeVue](https://img.shields.io/badge/PrimeVue-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-
----
 
 ## ⚙️ Backend Development
 
@@ -98,8 +94,6 @@
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
----
-
 ## 📱 Mobile Development
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -110,8 +104,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
 
 ## 🗄️ Databases
 
@@ -135,8 +127,6 @@
 - Database Normalization
 - ACID Transactions
 
----
-
 ## ☁️ Cloud
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -148,8 +138,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-
----
 
 ## 🐳 DevOps & Infrastructure
 
@@ -164,8 +152,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
-
----
 
 ## 🔧 Tools
 
@@ -186,8 +172,6 @@
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
----
-
 ## 📡 Networking
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -201,8 +185,6 @@
 ![VLAN](https://img.shields.io/badge/VLAN-0077B6?style=for-the-badge)
 ![SSH](https://img.shields.io/badge/SSH-2B2D42?style=for-the-badge)
 
----
-
 ## 🤖 AI & Machine Learning
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -213,8 +195,6 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
----
-
 ## 📊 Data Science & Analytics
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -222,8 +202,6 @@
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
----
 
 ## 🔐 Security
 
@@ -234,8 +212,6 @@
 ![BCrypt](https://img.shields.io/badge/BCrypt-3D405B?style=for-the-badge)
 ![Authentication](https://img.shields.io/badge/Authentication-1D3557?style=for-the-badge)
 ![Authorization](https://img.shields.io/badge/Authorization-457B9D?style=for-the-badge)
-
----
 
 ## 📚 Methodologies & Architecture
 
@@ -249,16 +225,12 @@
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-FF8C00?style=for-the-badge)
 ![UML](https://img.shields.io/badge/UML-2F4F4F?style=for-the-badge)
 
----
-
 ## 🧪 Testing
 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-8B0000?style=for-the-badge)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge)
 ![NUnit](https://img.shields.io/badge/NUnit-239120?style=for-the-badge)
-
----
 
 ## 📦 Others
 
@@ -275,17 +247,7 @@
 ![BCrypt](https://img.shields.io/badge/BCrypt-3D405B?style=for-the-badge)
 ![Regex](https://img.shields.io/badge/Regex-007ACC?style=for-the-badge)
 
----
-
 # 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gossk&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gossk&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
@@ -300,49 +262,5 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gossk&theme=algolia&margin-w=10&margin-h=10&no-frame=true"/>
-
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-
-<a href="mailto:u202314186@upc.edu.pe">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/miguel-vidal-a1b230306/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-miguel-vidal.web.app/">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
 ⭐ Thanks for visiting my profile!
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Gossk&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
 ⭐ Last Edited: 14/07/2026
